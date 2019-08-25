@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/vitaliy/STM32SoftwareUart/STM32F401_SoftUart
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/vitaliy/STM32SoftwareUart/STM32F401_SoftUart/cmake-build-debug

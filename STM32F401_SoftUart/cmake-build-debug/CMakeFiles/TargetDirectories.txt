@@ -1,0 +1,4 @@
+/Users/vitaliy/STM32SoftwareUart/STM32F401_SoftUart/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vitaliy/STM32SoftwareUart/STM32F401_SoftUart/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vitaliy/STM32SoftwareUart/STM32F401_SoftUart/cmake-build-debug/CMakeFiles/UPLOAD.dir
+/Users/vitaliy/STM32SoftwareUart/STM32F401_SoftUart/cmake-build-debug/CMakeFiles/STM32F401_SoftUart.elf.dir
